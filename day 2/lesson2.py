@@ -1,1 +1,1 @@
-print("this is lesson 2")
+name = "vaso"
